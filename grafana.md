@@ -17,7 +17,7 @@
 **Paso 3 --> Instalar Grafana**
 - sudo apt install grafana
 
-**Paso 4 --> Ininiar Grafana**
+**Paso 4 --> Iniciar Grafana**
 - sudo systemctl daemon-reload
 
 - sudo systemctl enable grafana-server

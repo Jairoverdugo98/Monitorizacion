@@ -75,7 +75,7 @@ Htop es un comando que nos muestra una versión mejorada del comando top , con u
 Para utilizar este comando debes instalarlo previamente utilizando:
 **"sudo apt install sysstat"**
 
-  *Ejemplo: iostat sda 5 3 >io.out &*
+  **Ejemplo: iostat sda 5 3 >io.out &**
   
     Este ejemplo da información de este disco , cada 5 segundos , 3 veces y lo redirecciona a io.out en segundo plano.
 
@@ -94,7 +94,7 @@ Es otro comando para monitorizar la actividad de red en sistemas Linux.
 Con este comando podemos obtener una visión rápida de conexiones TCP están activas en tu sistema en un momento dado.
 
 - **netstat (ss)** : Muestra las conexiones activas de una computadora , tanto entrantes como salientes. 
-_Ejemplo: netstat -plunt_:
+**_Ejemplo: netstat -plunt_**
 
 
 
