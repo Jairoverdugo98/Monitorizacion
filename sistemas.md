@@ -20,5 +20,5 @@ una interfaz web para consultas y visualizaciones.
 Grafana es una plataforma de visualización que se integra con diversas fuentes
 de datos, incluidas muchas herramientas de monitorización. Puede utilizarse
 para crear paneles personalizados y visualizaciones interactivas.
-
+Para instalar grafana debemos seguir los pasos que describimos a continuación: [Instalación](grafana.md)
 ![image](/img/grafana.png)
